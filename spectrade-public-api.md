@@ -6,6 +6,8 @@ This is the public API for [Spectrade Exchange](https://spectrade.io), designed 
 
 ---
 
+## 📌 Available Endpoints
+
 ### `GET /coins`
 
 Returns metadata of all supported coins.
@@ -68,10 +70,6 @@ Returns metadata of all supported coins.
   ]
 }
 ```
-
----
-
-## 📌 Available Endpoints
 
 ### `GET /markets`
 
